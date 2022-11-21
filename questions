@@ -1,0 +1,18 @@
+
+ In this assignment you will be asked to visualize, process, and analyze the series provided, only. 
+
+Exercise A. The first series of the dataset presents the daily sales of a retail store, expressed in Rupees. You are asked: 
+1.	To visualize the original series.
+2.	To identify the missing values and fill them using an appropriate method.
+3.	To identify the outliers present and normalize their values.
+4.	To create and visualize the respective weekly and monthly series.
+5.	To decompose the monthly series and visualize its trend and seasonal components.
+6.	To compute the average sales per weekday and month
+
+Exercise B. The second series of the dataset presents the daily sales of a product sold in the store, 
+expressed in units. You are asked:
+1.	To visualize the series.
+
+To compute the average daily demand of the product, the coefficient of variation of non-zero demands (CV²), and the average number of time periods between two successive non-zero demands (ADI).
+2.	To visualize the empirical distribution of the demand of the product and compute its 5%, 50% and 95% percentiles. 
+3.	To create and visualize the respective monthly series and comment on its seasonal pattern, if present.
